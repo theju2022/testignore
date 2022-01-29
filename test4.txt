@@ -2,3 +2,4 @@ this is to test the git pull command
 both git pull https://github.com/theju2022/abc.txt
 and
 git pull origin master
+this is a gitignore file check
